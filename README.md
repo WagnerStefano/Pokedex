@@ -1,7 +1,7 @@
 # Pokedex
 Pokedex with HTML, CSS & JS
 
-  2° dia do desafio 30 dias de Javascript
+ # 2° dia do desafio 30 dias de Javascript
 Até o momento vou upar apenas o projeto mas logo trago a documentação e tudo o que eu consegui aprender no projeto.
 ![image](https://user-images.githubusercontent.com/100243659/182614774-f25a5994-05ee-4deb-81de-7cf0ece9ae06.png)
 Vamos lá
